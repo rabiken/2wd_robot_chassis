@@ -1,0 +1,54 @@
+# FreeCAD backup and temporary files
+*.FCStd1
+*.FCBak
+*.autosave
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# C/C++ build files
+build/
+Debug/
+Release/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+
+# STM32CubeIDE
+.cproject
+.project
+.settings/
+
+# ROS 2
+install/
+log/
+
+# Generated files
+*.generated.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# MATLAB / Julia
+*.asv
+*.jl.cov
+*.jl.*.cov
+Manifest.toml
+
+# Large temporary files
+*.bak
+*.swp
+*.swo
