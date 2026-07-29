@@ -46,3 +46,4 @@ The current design is still under development, and dimensions and components may
 🚧 **Work in Progress**
 
 This repository currently focuses on the mechanical chassis design. Additional components, including motor mounts, electronics mounts, and other mechanical parts, may be added later.
+![IMG Jul 29](IMG_9249.jpeg)
